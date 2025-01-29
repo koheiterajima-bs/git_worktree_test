@@ -1,0 +1,2 @@
+# git worktreeのテスト
+- これはmainブランチです
